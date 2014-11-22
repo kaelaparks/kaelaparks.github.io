@@ -13,4 +13,4 @@ https://github.com/kaelaparks/kaelaparks.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://kaelaprks.github.io/
+http://kaelaparks.github.io/
