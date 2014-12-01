@@ -25,14 +25,16 @@
 <!-- MAIN CONTENT -->
 <div id="main_content_wrap" class="outer">
 <section id="main_content" class="inner">
-<h1>Professional Role<h1> 
-<a href="https://drive.google.com/file/d/0BwhKxh5SJ4eAWS16TjI0S3ZLU1U/view?usp=sharing">Please see my Curriculum Vitae</a>
-<div>
-<p> Below are some of my projects of interest<p><ul>
-<li><a href="http://www.disrepresentation.com">Dis/Representation</a>
-<li><a href="https://www.ahead.org/learn/virtual-learning/at_webinars_14_15">AHEAD Access to Technology Series</a>
-<li>ORAHEAD and WAPED Survey Pilot
-<ul>
+<h1>Philosophy Statement<h1></h1>
+<p><img src="https://cloud.githubusercontent.com/assets/9884134/5159489/b04e519e-731c-11e4-804c-282866b87a4f.jpg" alt="Keyboard with Access for Enter Key" align="right"style=”margin: 0px 0px 0px 10px></p>
+<p>
+I am currently serving as the Director of Disability Services at Portland Community College. I spent the ten years prior as the Director of Disability Support Services at the University of Alaska Ancorage. 
+I have worked on federally funded universal design initiatives as well as disability studies programs and projects related to web accessibility. 
+I have provided a quick sketch of several projects of note, but am happy to comment on additional areas covered within my curriculum vitae.
+<h2>Please see my Curriculum Vitae <a href=https://drive.google.com/file/d/0BwhKxh5SJ4eAWS16TjI0S3ZLU1U/view?usp=sharing</a></h2>
+The notion that we can look beyond the boundaries of our institutional walls to forge mutually beneficial relationships with community partners is key to my professional approach. 
+</p>
+</section>
 </div>
 <!-- FOOTER -->
 <div id="footer_wrap" class="outer">
@@ -45,3 +47,4 @@
 </div>
 </body>
 </html>
+
