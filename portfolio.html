@@ -1,0 +1,116 @@
+<!doctype hml>
+<html>
+  <head>
+    <title>Jane Doette - Portfolio</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row" id="header">
+        <div class="col-md-2"><img class="title-logo" src="images/udacity-logo.png">
+        </div>
+        <div class="col-md-10 text-right text-uppercase">
+          <h1 class="title-super text-thin">Jane Doette</h1>
+          <h4>Front-End Ninja</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <img class="img-responsive" src="images/1170.jpeg">
+        </div>
+      </div>
+    <div class="row">
+        <div class="col-md-12">
+          <h2 class="text-muted">Featured Work</h2>
+        </div>
+      </div>
+      <div class="row text-center text-uppercase">
+        <div class="col-md-6">
+          <img class="img-responsive" src="images/555.jpeg" data-toggle="modal" data-target="#project1">
+          <h3>Favorite App</h3>
+          <p>
+            <a class="portfolio-link" href="favapp/index-1.html">favapp</a>
+          </p>
+        </div>
+        <div class="col-md-6">
+          <img class="img-responsive" src="images/555.jpeg" data-toggle="modal" data-target="#project2">
+          <h3>Portfolio Framework</h3>
+          <p>
+            <a class="portfolio-link" href="framework/index.html">framework</a>
+          </p>
+        </div>
+      </div>
+      <div class="row text-center text-uppercase">
+      <div class="col-md-6">
+        <img class="img-responsive" src="images/555.jpeg" data-toggle="modal" data-target="#project3">
+        <h3>Portfolio with Bootstrap</h3>
+        <p>
+          <a class="portfolio-link" href="portfolio-bootstrap.html">bootstrap</a>
+        </p>
+      </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="project1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
+          </div>
+          <div class="modal-body">
+            <img class="img-responsive" src="images/555.jpeg">
+            This was my first project in this class. I learned a lot about HTML and CSS.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="project2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="myModalLabel">My Own Framework</h4>
+          </div>
+          <div class="modal-body">
+            <img class="img-responsive" src="images/555.jpeg">
+            My second project was to build my own small CSS framework I could use for future projects. I used my framework to create
+            the first version of my portfolio page.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="project3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="myModalLabel">Portfolio with Bootstrap</h4>
+          </div>
+          <div class="modal-body">
+            <img class="img-responsive" src="images/555.jpeg">
+            In this project I learned how to use Bootstrap and applied it to the second version of portfolio page.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
